@@ -1,0 +1,21 @@
+.shubh{
+    
+        width: 100vw; /* Full viewport width */
+        height: 100vh; /* Full viewport height */
+        display: flex; /* Use flexbox */
+        flex-direction: column; /* Flex items arranged in a column */
+        align-items: center; /* Center items horizontally */
+        justify-content: center; /* Center items vertically */
+        background-color: #344151; /* Background color */
+        gap: 10px; /* 10px gap between flex items */
+      
+}
+
+.shubh1{
+    width: 30px;
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 1px;
+    align-items: center;
+
+ }
